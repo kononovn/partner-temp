@@ -2,7 +2,7 @@ package partner
 
 import (
 	"fmt"
-	_ "github.com/kononovn/partner-temp/tests/partner-tests/tests"
+	_ "github.com/kononovn/partner-temp/tests/partner/tests"
 	. "github.com/onsi/ginkgo/v2"
 	. "github.com/onsi/gomega"
 	"testing"
